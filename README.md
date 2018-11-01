@@ -6,7 +6,7 @@ SneakyCat is a Grasshopper plugin that lets you embed data into images using a t
 The plugin takes data to be embedded and embeds it into the least significant digits of the pixel data in the image. The changes to the image are so small that it is difficult to perceive with human eyes.  
 
 ## How to use?
-Build the project and install the plugin as any [Grasshopper plugin](http://coder.the-bac.edu/?p=97).  
+[Download](https://drive.google.com/open?id=1BteouK3rSwFebEHvYxN0cr-e2sKE1enR) and install the plugin as any [Grasshopper plugin](http://coder.the-bac.edu/?p=97).  
 The `Purr` component embeds the data and `Hiss` component extracts it. You can optionally provide password to encrypt the data.  
 Check out the example file to see how we embed and restor render settings into the render itself (secretly).  
 
