@@ -11,10 +11,10 @@ The `Purr` component embeds the data and `Hiss` component extracts it. You can o
 Check out the example file to see how we embed and restor render settings into the render itself (secretly).  
 
 ### Embed
-![./images/comp_embed.png]
+![Embed](./images/comp_embed.png)
 
 ### Extract
-![./images/comp_extract.png]
+![Extract](./images/comp_extract.png)
 
 ## Team
 - Amit Nambiar
