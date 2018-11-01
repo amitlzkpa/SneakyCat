@@ -19,8 +19,8 @@ Check out the example file to see how we embed and restor render settings into t
 ## Team
 - Amit Nambiar
 - Joseph Wagner
-- Vina Solimani
+- Vina Soliman
 - Leland Curtis
-- Zach S
+- Zach Sickman
 
 This project was made as a part of the [AEC Tech 2018 hackathon](http://core.thorntontomasetti.com/aec-tech-2018/aec-tech-2018-hackathon/).  
