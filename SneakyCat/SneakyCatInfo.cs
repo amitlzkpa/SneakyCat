@@ -26,7 +26,7 @@ namespace SneakyCat
             get
             {
                 //Return a short string describing the purpose of this GHA library.
-                return "";
+                return "Snugging data into your renders.";
             }
         }
         public override Guid Id
@@ -42,7 +42,7 @@ namespace SneakyCat
             get
             {
                 //Return a string identifying you or your company.
-                return "";
+                return "Amit Nambiar, Joseph Wagner, Leland Curtis, Vina Soliman, Zach S";
             }
         }
         public override string AuthorContact
